@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Protsenko.TheoryEditor.VisualElements.MessageBoxListEditPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" MinWidth="200" MaxHeight="100">
+    <Grid>
+         <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>   
+        <ListBox Grid.Column="0" Name="ListBoxSource" Margin="2" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True"/>
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <Button Margin="2" Name="Add" Content="+" Click="Add_Click"/>
+            <Button Margin="2" Name="Remove" Content="-" Click="Remove_Click"/>
+        </StackPanel>
+        <ListBox Grid.Column="2" Name="ListBoxRecepient" Margin="2" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True"/>
+    </Grid>
+</UserControl>

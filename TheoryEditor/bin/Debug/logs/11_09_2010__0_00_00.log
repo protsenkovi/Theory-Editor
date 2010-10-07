@@ -1,0 +1,250 @@
+Log Entry : 
+12:49:57
+
+11.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+11.09.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: New session
+
+-------------------------------
+11.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Add element
+
+-------------------------------
+11.09.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Unable to add element. It was already added.
+       в Protsenko.TheoryEditor.Core.TheoryTree.Add(ITheoryElement elementToAdd, List`1 basis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTree.cs:строка 187
+       в Protsenko.TheoryEditor.Core.TheoryTreeController.Add(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTreeController.cs:строка 52
+       в Protsenko.TheoryEditor.Core.Session.AddTheoryElement(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 78
+
+2. System.Exception: Unable to add element. It was already added.
+       в Protsenko.TheoryEditor.Core.TheoryTree.Add(ITheoryElement elementToAdd, List`1 basis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTree.cs:строка 187
+       в Protsenko.TheoryEditor.Core.TheoryTreeController.Add(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTreeController.cs:строка 52
+       в Protsenko.TheoryEditor.Core.Session.AddTheoryElement(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 78
+
+3. System.Exception: Unable to add element. It was already added.
+       в Protsenko.TheoryEditor.Core.TheoryTree.Add(ITheoryElement elementToAdd, List`1 basis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTree.cs:строка 187
+       в Protsenko.TheoryEditor.Core.TheoryTreeController.Add(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryTreeController.cs:строка 52
+       в Protsenko.TheoryEditor.Core.Session.AddTheoryElement(TheoryTypes type, Int32 theoryindex, String formulation, String template, String proof, List`1 newbasis) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 78
+
+-------------------------------
+11.09.2010 - Operation complete: Add element
+
+-------------------------------
+11.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Add element
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Add element
+
+-------------------------------
+11.09.2010 - Operation starts: Close session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Close session Default
+
+-------------------------------
+
+
+Log Entry : 
+13:30:39
+
+11.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+11.09.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: New session
+
+-------------------------------
+11.09.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Open Click
+
+-------------------------------
+11.09.2010 - Operation starts: LoadData(string fileName):string
+
+-------------------------------
+Exceptions:
+
+1. System.Runtime.Serialization.SerializationException: Failed to load data. Reason:  ---> System.IO.IOException: File doesn't exists.
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 234
+       --- Конец трассировки внутреннего стека исключений ---
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 243
+       в Protsenko.TheoryEditor.VisualElements.TheoryImporterPanel.Open_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\VisualElements\TheoryImporterPanel.xaml.cs:строка 105
+
+-------------------------------
+11.09.2010 - Operation complete: Open Click
+
+-------------------------------
+Something went wrong. Operation: LoadData(string fileName):string was not complete or was not registered.
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+11.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+11.09.2010 - Operation starts: Open Click
+
+-------------------------------
+11.09.2010 - Operation starts: LoadData(string fileName):string
+
+-------------------------------
+Exceptions:
+
+1. System.Runtime.Serialization.SerializationException: Failed to load data. Reason:  ---> System.IO.IOException: File doesn't exists.
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 234
+       --- Конец трассировки внутреннего стека исключений ---
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 243
+       в Protsenko.TheoryEditor.VisualElements.TheoryImporterPanel.Open_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\VisualElements\TheoryImporterPanel.xaml.cs:строка 105
+
+-------------------------------
+11.09.2010 - Operation complete: Open Click
+
+-------------------------------
+Something went wrong. Operation: LoadData(string fileName):string was not complete or was not registered.
+
+-------------------------------
+11.09.2010 - Operation starts: Open Click
+
+-------------------------------
+11.09.2010 - Operation starts: LoadData(string fileName):string
+
+-------------------------------
+Exceptions:
+
+1. System.Runtime.Serialization.SerializationException: Failed to load data. Reason:  ---> System.IO.IOException: File doesn't exists.
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 234
+       --- Конец трассировки внутреннего стека исключений ---
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 243
+       в Protsenko.TheoryEditor.VisualElements.TheoryImporterPanel.Open_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\VisualElements\TheoryImporterPanel.xaml.cs:строка 105
+
+-------------------------------
+11.09.2010 - Operation complete: Open Click
+
+-------------------------------
+Something went wrong. Operation: LoadData(string fileName):string was not complete or was not registered.
+
+-------------------------------
+
+

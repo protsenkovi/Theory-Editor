@@ -1,0 +1,98 @@
+Log Entry : 
+14:05:08
+
+19.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+19.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Can't complete request. Session is not initialized.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.AddElement() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 118
+
+-------------------------------
+19.09.2010 - Operation complete: Add element
+
+-------------------------------
+19.09.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: New session
+
+-------------------------------
+19.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: Add element
+
+-------------------------------
+19.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: Add element
+
+-------------------------------
+19.09.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+19.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+19.09.2010 - Operation starts: LoadData(string fileName):string
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: LoadData(string fileName):string
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+19.09.2010 - Operation starts: BasicMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: BasicMod_Click
+
+-------------------------------
+19.09.2010 - Operation starts: Close session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+19.09.2010 - Operation complete: Close session sda
+
+-------------------------------
+
+

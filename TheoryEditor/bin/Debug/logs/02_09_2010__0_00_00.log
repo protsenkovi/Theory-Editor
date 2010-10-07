@@ -1,0 +1,150 @@
+Log Entry : 
+0:03:31
+
+02.09.2010 - Operation starts: Load session
+
+-------------------------------
+02.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Load session
+
+-------------------------------
+
+
+Log Entry : 
+0:04:24
+
+02.09.2010 - Operation starts: Load session
+
+-------------------------------
+02.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Load session
+
+-------------------------------
+02.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+02.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+02.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+
+
+Log Entry : 
+9:58:43
+
+02.09.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: New session
+
+-------------------------------
+02.09.2010 - Operation starts: Load session
+
+-------------------------------
+02.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Load session
+
+-------------------------------
+02.09.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+02.09.2010 - Operation starts: Browse Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Browse Click
+
+-------------------------------
+02.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+02.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+02.09.2010 - Operation starts: BasicMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+02.09.2010 - Operation complete: BasicMod_Click
+
+-------------------------------
+
+

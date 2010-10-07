@@ -1,0 +1,44 @@
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Release\ResolveAssemblyReference.cache
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Release\CanvasMy.baml
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Release\CanvasMy.g.cs
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Release\App.g.cs
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Release\CanvasTest_MarkupCompile.cache
+D:\C# Projects\CanvasTest\CanvasTest\bin\Release\CanvasTest.exe
+D:\C# Projects\CanvasTest\CanvasTest\bin\Release\CanvasTest.pdb
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\ResolveAssemblyReference.cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\ElementSpace.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\SessionVisual.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\TheoryVisualElement.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\ElementSpace.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\SessionVisual.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\TheoryVisualElement.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\mainwindow\Window1.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\mainwindow\App.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest_MarkupCompile.cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest_MarkupCompile.lref
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\mainwindow\Window1.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.g.resources
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.csproj.GenerateResource.Cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.exe
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.pdb
+D:\C# Projects\CanvasTest\CanvasTest\bin\Release\CanvasTest.exe.manifest
+D:\C# Projects\CanvasTest\CanvasTest\bin\Release\CanvasTest.application
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\modal windows\ElementWindow.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\CreateElementPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\HelpPage.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\Logo.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\modal windows\MessageListBox.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\MessageBoxListEditPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\TheoryImporterPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\CreateSessionBox.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\modal windows\ElementWindow.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\CreateElementPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\HelpPage.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\Logo.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\modal windows\MessageListBox.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\MessageBoxListEditPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\TheoryImporterPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\visualelements\CreateSessionBox.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\TheoryEditor.Properties.Resources.resources
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.exe.manifest
+D:\C# Projects\CanvasTest\CanvasTest\obj\Release\CanvasTest.application

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Protsenko.TheoryEditor.VisualElements.CreateSessionBox"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    SizeToContent="Height" Width="200" WindowStyle="ToolWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="26"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="Textbox" MaxLines="1" Margin="5" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"/>
+        <Button Name="Ok" Grid.Row="1" Grid.Column="0" Content="Ok" Margin="2" Click="Ok_Click" />
+        <Button Name="Cancel" Grid.Row="1" Grid.Column="1" Content="Cancel" Margin="2" Click="Cancel_Click" />
+    </Grid>
+</Window>

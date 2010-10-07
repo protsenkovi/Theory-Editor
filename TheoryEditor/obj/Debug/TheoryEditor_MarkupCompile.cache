@@ -1,0 +1,18 @@
+﻿TheoryEditor
+
+
+winexe
+C#
+.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\
+Protsenko.TheoryEditor
+none
+false
+DEBUG;TRACE
+D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\App.xaml
+13-1312862147
+
+441896036405
+10-593201178
+ModalWindows\ElementWindow.xaml;VisualElements\CreateElementPanel.xaml;VisualElements\ElementSpace.xaml;VisualElements\HelpPage.xaml;VisualElements\Logo.xaml;ModalWindows\MessageListBox.xaml;VisualElements\MessageBoxListEditPanel.xaml;VisualElements\OptionsControl.xaml;VisualElements\SessionVisual.xaml;VisualElements\TheoryImporterPanel.xaml;VisualElements\TheoryVisualElement.xaml;mainwindow\MainWindow.xaml;ModalWindows\CreateSessionBox.xaml;
+

@@ -1,0 +1,436 @@
+Log Entry : 
+0:15:20
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Creation aborted.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.CreateSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 229
+       в Protsenko.TheoryEditor.Core.TheoryEditor.NewSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 55
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+
+
+Log Entry : 
+0:21:24
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+
+
+Log Entry : 
+0:43:32
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+31.08.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+31.08.2010 - Operation starts: BasicMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: BasicMod_Click
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+
+
+Log Entry : 
+1:02:39
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+       в System.ThrowHelper.ThrowKeyNotFoundException()
+       в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+       в Protsenko.TheoryEditor.VisualElements.CreateElementPanel.LanguageResource_Updated(Object language) в D:\C# Projects\TheoryEditor\TheoryEditor\VisualElements\CreateElementPanel.xaml.cs:строка 152
+       в Protsenko.TheoryEditor.VisualElements.CreateElementPanel..ctor(Session session) в D:\C# Projects\TheoryEditor\TheoryEditor\VisualElements\CreateElementPanel.xaml.cs:строка 53
+       в Protsenko.TheoryEditor.ModalWindows.ElementWindow..ctor(Session session) в D:\C# Projects\TheoryEditor\TheoryEditor\ModalWindows\ElementWindow.xaml.cs:строка 29
+       в Protsenko.TheoryEditor.Core.TheoryEditor.AddElement() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 114
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+1:04:30
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+1:06:26
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+1:09:07
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+1:10:16
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+1:22:08
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+
+
+Log Entry : 
+1:26:54
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Add element
+
+-------------------------------
+31.08.2010 - Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+
+
+Log Entry : 
+1:27:56
+
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Создание отменено.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.CreateSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 230
+       в Protsenko.TheoryEditor.Core.TheoryEditor.NewSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 55
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Создание отменено.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.CreateSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 230
+       в Protsenko.TheoryEditor.Core.TheoryEditor.NewSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 55
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+
+
+Log Entry : 
+1:34:35
+
+
+
+Log Entry : 
+23:58:19
+
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+31.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+31.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+31.08.2010 - Operation complete: New session
+
+-------------------------------
+
+

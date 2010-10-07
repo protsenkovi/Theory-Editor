@@ -1,0 +1,4 @@
+﻿<Canvas x:Class="Protsenko.TheoryEditor.VisualElements.ElementSpace"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Background="Wheat" ClipToBounds="True" MinHeight="200" MinWidth="400" HorizontalAlignment="Stretch"/>
+

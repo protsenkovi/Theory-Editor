@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="Protsenko.TheoryEditor.VisualElements.CreateElementPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Margin="4" MaxWidth="400" MaxHeight="600">
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MinWidth="300">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition />
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" Margin="3">
+            <Button Name="ChooseTypeButton"  Content=">" FontSize="10" Margin="2" Click="ChooseTypeButton_Click" />
+            <TextBlock Name="BlockType" Text="Type: " VerticalAlignment="Center"></TextBlock>
+            <TextBlock Name="TheoryTypeBox" Text="Test" VerticalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="3">
+            <TextBlock  Name="BlockFormulation" Text="Formulation"/>
+            <TextBox Name="FormulationTextBox" Text="Some test" AcceptsReturn="True" MinLines="3" TextChanged="TextBox_TextChanged" 
+                     ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="2" Margin="3">
+            <TextBlock Name="BlockTemplate" Text="Template"/>
+            <TextBox Name="TemplateTextBox" Text="Some test" AcceptsReturn="True" MinLines="3" TextChanged="TextBox_TextChanged"
+                     ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        </StackPanel>
+        
+        <StackPanel Name="ProofPanel"  Grid.Row="3" Margin="3" Visibility="Collapsed">
+            <TextBlock Name="BlockProof" Text="Proof"/>
+            <TextBox Name="ProofTextBox" Text="Some test" AcceptsReturn="True" MinLines="3" TextChanged="TextBox_TextChanged"
+                     ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        </StackPanel>
+         
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+            <Button Name="LinkButton" Content="L" Width="28" Height="28" Margin="2" Click="LinkButton_Click" />
+            <TextBlock Name="BlockBasis" VerticalAlignment="Center" Grid.Column="1" FontSize="20"  Text="Basis: "/>
+            <ListBox Margin="5" ScrollViewer.CanContentScroll="True" Grid.Column="2" Name="LinksItemBox" />
+            <Button Name="ButtonOk" Content="OK" Grid.Column="3" Margin="3" Click="Button_Click" />
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Protsenko.TheoryEditor.VisualElements.SessionVisual"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <Grid Name="maingrid" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="293*" />
+        </Grid.RowDefinitions>
+        <Border Name="BorderRightPanelContainer"  Grid.Column="3" BorderThickness="2">
+            <ContentControl Name="LabelRightPanelContainer" 
+               HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+                <TextBox Name="TheoryBox" HorizontalScrollBarVisibility="Auto" Background="WhiteSmoke"/>
+            </ContentControl>
+        </Border>
+
+    </Grid>
+</UserControl>

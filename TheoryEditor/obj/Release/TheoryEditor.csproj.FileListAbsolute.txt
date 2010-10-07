@@ -1,0 +1,39 @@
+D:\C# Projects\TheoryEditor\TheoryEditor\bin\Release\TheoryEditor.exe.manifest
+D:\C# Projects\TheoryEditor\TheoryEditor\bin\Release\TheoryEditor.application
+D:\C# Projects\TheoryEditor\TheoryEditor\bin\Release\TheoryEditor.exe
+D:\C# Projects\TheoryEditor\TheoryEditor\bin\Release\TheoryEditor.pdb
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\ResolveAssemblyReference.cache
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\modal windows\ElementWindow.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\CreateElementPanel.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\ElementSpace.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\HelpPage.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\Logo.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\modal windows\MessageListBox.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\MessageBoxListEditPanel.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\SessionVisual.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\TheoryImporterPanel.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\TheoryVisualElement.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\CreateSessionBox.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\modal windows\ElementWindow.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\CreateElementPanel.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\ElementSpace.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\HelpPage.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\Logo.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\modal windows\MessageListBox.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\MessageBoxListEditPanel.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\SessionVisual.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\TheoryImporterPanel.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\TheoryVisualElement.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\mainwindow\MainWindow.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\visualelements\CreateSessionBox.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\mainwindow\App.g.cs
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor_MarkupCompile.cache
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor_MarkupCompile.lref
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\mainwindow\MainWindow.baml
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.g.resources
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\Protsenko.TheoryEditor.Properties.Resources.resources
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.csproj.GenerateResource.Cache
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.exe.manifest
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.application
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.exe
+D:\C# Projects\TheoryEditor\TheoryEditor\obj\Release\TheoryEditor.pdb

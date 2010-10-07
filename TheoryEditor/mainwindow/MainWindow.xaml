@@ -1,0 +1,24 @@
+﻿<Window x:Class="Protsenko.TheoryEditor.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:c="clr-namespace:Protsenko.TheoryEditor"
+    Title="" Height="500" Width="800">
+    <DockPanel Name="maindock">
+        <Menu Name="Menu" Height="20" DockPanel.Dock="Top" VerticalAlignment="Top">
+            <MenuItem Header="Ooo">
+                <MenuItem Name="_New"  Click="New_Click"/>
+                <MenuItem Name="_Add"  Click="Add_Click"/>
+                <MenuItem Name="_Save"  Click="_Save_Click"/>
+                <MenuItem Name="_Load"  Click="_Load_Click"/>
+                <MenuItem Name="_Exit"  Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Name="Mod" >
+                <MenuItem Name="BasicMod"  Click="BasicMod_Click"/>
+                <MenuItem Name="QuickRedactorMod"  Click="QuickRedactorMod_Click"/>
+            </MenuItem>
+            <MenuItem Name="Options"  Click="Options_Click"/>
+            <MenuItem Name="Help"  Click="Help_Click"/>
+            <MenuItem Name="Close"   Click="CloseMenuItem_Click" Visibility="Collapsed"/>
+        </Menu>
+    </DockPanel>
+</Window>

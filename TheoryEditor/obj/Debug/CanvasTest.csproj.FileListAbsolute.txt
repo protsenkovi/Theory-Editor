@@ -1,0 +1,88 @@
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\bin\Debug\CanvasTest.exe
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\bin\Debug\CanvasTest.pdb
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\Window1.baml
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\Window1.g.cs
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\App.g.cs
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest_MarkupCompile.cache
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest.g.resources
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest.Properties.Resources.resources
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest.csproj.GenerateResource.Cache
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest.exe
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasTest.pdb
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasMy.baml
+E:\Users\Klaritin\AppData\Local\Temporary Projects\CanvasTest\obj\Debug\CanvasMy.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.exe
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.pdb
+D:\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.exe
+D:\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.pdb
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest_MarkupCompile.cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest_MarkupCompile.lref
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.g.resources
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.csproj.GenerateResource.Cache
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\Window1.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\App.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\Window1.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryVisualElement.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryVisualElement.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\ElementSpace.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\ElementSpace.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\SessionVisual.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\SessionVisual.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateElementPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateElementPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\Logo.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\Logo.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateSessionBox.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateSessionBox.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\TheoryEditor.Properties.Resources.resources
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\ElementWindow.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryImporterPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\ElementWindow.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryImporterPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\MessageListBox.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\MessageBoxListEditPanel.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\MessageListBox.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\MessageBoxListEditPanel.g.cs
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\HelpPage.baml
+D:\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\HelpPage.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.exe
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.pdb
+C:\Progs\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.exe.manifest
+C:\Progs\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.application
+C:\Progs\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.exe
+C:\Progs\C# Projects\CanvasTest\CanvasTest\bin\Debug\CanvasTest.pdb
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\ElementWindow.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateElementPanel.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\ElementSpace.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\HelpPage.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\Logo.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\MessageListBox.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\MessageBoxListEditPanel.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\SessionVisual.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryImporterPanel.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryVisualElement.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateSessionBox.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\ElementWindow.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateElementPanel.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\ElementSpace.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\HelpPage.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\Logo.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\modal windows\MessageListBox.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\MessageBoxListEditPanel.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\SessionVisual.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryImporterPanel.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\TheoryVisualElement.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\Window1.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\visualelements\CreateSessionBox.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\App.g.cs
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest_MarkupCompile.cache
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest_MarkupCompile.lref
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\mainwindow\Window1.baml
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.g.resources
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\TheoryEditor.Properties.Resources.resources
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.csproj.GenerateResource.Cache
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.exe.manifest
+C:\Progs\C# Projects\CanvasTest\CanvasTest\obj\Debug\CanvasTest.application

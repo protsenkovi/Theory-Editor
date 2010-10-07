@@ -1,0 +1,242 @@
+﻿Log Entry : 
+16:37:52 30 августа 2010 г.
+Exceptions:
+System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+
+Log Entry : 
+16:38:13 30 августа 2010 г.
+Exceptions:
+System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+Exceptions:
+System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+
+Log Entry : 
+16:40:10
+Exceptions:
+System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+
+
+Log Entry : 
+16:44:53
+Exceptions:
+
+0. System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+Log Entry : 
+16:46:35
+Exceptions:
+
+1. System.Exception: Creation aborted.
+   в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+   в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+
+
+Log Entry : 
+16:49:01
+Exceptions:
+
+1. System.Exception: Creation aborted.
+       в Protsenko.TheoryEditor.MainWindow.CreateSession() в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 98
+       в Protsenko.TheoryEditor.MainWindow.New_Click(Object sender, RoutedEventArgs e) в D:\C# Projects\TheoryEditor\TheoryEditor\mainwindow\MainWindow.xaml.cs:строка 65
+
+-------------------------------
+
+
+Log Entry : 
+17:39:50
+
+30.08.2010Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+30.08.2010Operation complete: New session
+
+-------------------------------
+30.08.2010Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+30.08.2010Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+18:41:54
+
+30.08.2010Operation starts: BasicMod_Click
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Can't complete request. Session is not initialized.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.SwitchToBasicMode() в D:\C# Projects\TheoryEditor\TheoryEditor\core\TheoryEditor.cs:строка 178
+
+-------------------------------
+30.08.2010Operation complete: BasicMod_Click
+
+-------------------------------
+30.08.2010Operation starts: QuickRedactorMod_Click
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Can't complete request. Session is not initialized.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.SwitchToQuickMode() в D:\C# Projects\TheoryEditor\TheoryEditor\core\TheoryEditor.cs:строка 199
+
+-------------------------------
+30.08.2010Operation complete: QuickRedactorMod_Click
+
+-------------------------------
+30.08.2010Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Can't complete request. Session is not initialized.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.AddElement() в D:\C# Projects\TheoryEditor\TheoryEditor\core\TheoryEditor.cs:строка 115
+
+-------------------------------
+30.08.2010Operation complete: Add element
+
+-------------------------------
+30.08.2010Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Creation aborted.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.CreateSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\core\TheoryEditor.cs:строка 223
+       в Protsenko.TheoryEditor.Core.TheoryEditor.NewSession(Panel parent) в D:\C# Projects\TheoryEditor\TheoryEditor\core\TheoryEditor.cs:строка 54
+
+-------------------------------
+30.08.2010Operation complete: New session
+
+-------------------------------
+
+
+Log Entry : 
+22:26:02
+
+
+
+Log Entry : 
+22:30:12
+
+
+
+Log Entry : 
+23:23:27
+
+30.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+30.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+
+
+Log Entry : 
+23:24:17
+
+
+
+Log Entry : 
+23:24:56
+
+
+
+Log Entry : 
+23:26:09
+
+
+
+Log Entry : 
+23:35:03
+
+30.08.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+30.08.2010 - Operation complete: Switch Language
+
+-------------------------------
+30.08.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Не могу выполнить действие. Сессия не создана.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.AddElement() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 116
+
+-------------------------------
+30.08.2010 - Operation complete: Add element
+
+-------------------------------
+30.08.2010 - Operation starts: Load session
+
+-------------------------------
+30.08.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+1. System.Runtime.Serialization.SerializationException: Не удалось загрузить данные. Причина:  ---> System.IO.FileNotFoundException: Файл "D:\C# Projects\TheoryEditor\TheoryEditor\bin\Debug\.th" не найден.
+    Имя файла: "D:\C# Projects\TheoryEditor\TheoryEditor\bin\Debug\.th"
+       в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+       в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+       в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+       в System.IO.FileStream..ctor(String path, FileMode mode)
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName, Object& ob) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 157
+       --- Конец трассировки внутреннего стека исключений ---
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName, Object& ob) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 175
+       в Protsenko.TheoryEditor.Core.Session..ctor(UIElement parent, String name, ConstructorMods mod) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 52
+
+-------------------------------
+30.08.2010 - Operation complete: Load session
+
+-------------------------------
+Something went wrong. Operation: LoadData(string fileName, out object ob):bool was not complete or was not registered.
+
+-------------------------------
+30.08.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+30.08.2010 - Operation complete: New session
+
+-------------------------------
+
+

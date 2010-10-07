@@ -1,0 +1,58 @@
+Log Entry : 
+7:51:43
+
+07.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+07.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+07.09.2010 - Operation starts: Add element
+
+-------------------------------
+Exceptions:
+
+1. System.Exception: Can't complete request. Session is not initialized.
+       в Protsenko.TheoryEditor.Core.TheoryEditor.AddElement() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\TheoryEditor.cs:строка 118
+
+-------------------------------
+07.09.2010 - Operation complete: Add element
+
+-------------------------------
+
+
+Log Entry : 
+19:56:10
+
+07.09.2010 - Operation starts: Load session
+
+-------------------------------
+07.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+07.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+07.09.2010 - Operation complete: Load session
+
+-------------------------------
+07.09.2010 - Operation starts: Switch Language
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+07.09.2010 - Operation complete: Switch Language
+
+-------------------------------
+
+

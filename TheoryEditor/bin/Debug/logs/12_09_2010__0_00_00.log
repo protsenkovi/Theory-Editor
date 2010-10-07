@@ -1,0 +1,82 @@
+Log Entry : 
+23:53:03
+
+12.09.2010 - Operation starts: New session
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+12.09.2010 - Operation complete: New session
+
+-------------------------------
+12.09.2010 - Operation starts: Load session
+
+-------------------------------
+12.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+12.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+1. System.InvalidCastException: Не удалось привести тип объекта "TheoryEditor.core.TheoryTree" к типу "Protsenko.TheoryEditor.Core.TheoryTree".
+       в Protsenko.TheoryEditor.Core.Session.LoadData() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 159
+
+-------------------------------
+12.09.2010 - Operation complete: Load session
+
+-------------------------------
+12.09.2010 - Operation starts: Load session
+
+-------------------------------
+12.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+1. System.Runtime.Serialization.SerializationException: Не удалось загрузить данные. Причина:  ---> System.NullReferenceException: В экземпляре объекта не задана ссылка на объект.
+       в System.Runtime.Serialization.Formatters.Binary.ObjectReader.ParseArrayMember(ParseRecord pr)
+       в System.Runtime.Serialization.Formatters.Binary.ObjectReader.ParseMember(ParseRecord pr)
+       в System.Runtime.Serialization.Formatters.Binary.ObjectReader.Parse(ParseRecord pr)
+       в System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadMemberReference()
+       в System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run()
+       в System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize(HeaderHandler handler, __BinaryParser serParser, Boolean fCheck, Boolean isCrossAppDomain, IMethodCallMessage methodCallMessage)
+       в System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize(Stream serializationStream, HeaderHandler handler, Boolean fCheck, Boolean isCrossAppDomain, IMethodCallMessage methodCallMessage)
+       в System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize(Stream serializationStream)
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName, Object& ob) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 162
+       --- Конец трассировки внутреннего стека исключений ---
+       в Protsenko.TheoryEditor.Core.SaveLoad.LoadData(String fileName, Object& ob) в D:\C# Projects\TheoryEditor\TheoryEditor\Core\SaveLoad.cs:строка 175
+       в Protsenko.TheoryEditor.Core.Session.LoadData() в D:\C# Projects\TheoryEditor\TheoryEditor\Core\Session.cs:строка 158
+
+-------------------------------
+12.09.2010 - Operation complete: Load session
+
+-------------------------------
+Something went wrong. Operation: LoadData(string fileName, out object ob):bool was not complete or was not registered.
+
+-------------------------------
+12.09.2010 - Operation starts: Load session
+
+-------------------------------
+12.09.2010 - Operation starts: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+12.09.2010 - Operation complete: LoadData(string fileName, out object ob):bool
+
+-------------------------------
+Exceptions:
+
+-------------------------------
+12.09.2010 - Operation complete: Load session
+
+-------------------------------
+
+
