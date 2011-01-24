@@ -78,3 +78,5 @@ D:\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\ModalWindows\MessageListBox.g
 D:\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\VisualElements\OptionsControl.g.cs
 D:\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\ModalWindows\CreateSessionBox.baml
 D:\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\ModalWindows\CreateSessionBox.g.cs
+D:\ProgramProjects\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\TheoryEditor.exe
+D:\ProgramProjects\C# Projects\TheoryEditor\TheoryEditor\obj\Debug\TheoryEditor.pdb

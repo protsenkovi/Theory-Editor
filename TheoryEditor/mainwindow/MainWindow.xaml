@@ -5,7 +5,7 @@
     Title="" Height="500" Width="800">
     <DockPanel Name="maindock">
         <Menu Name="Menu" Height="20" DockPanel.Dock="Top" VerticalAlignment="Top">
-            <MenuItem Header="Ooo">
+            <MenuItem Header="Ooo o">
                 <MenuItem Name="_New"  Click="New_Click"/>
                 <MenuItem Name="_Add"  Click="Add_Click"/>
                 <MenuItem Name="_Save"  Click="_Save_Click"/>
